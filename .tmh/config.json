@@ -1,0 +1,9 @@
+{
+  "issueKeyTestcaseValues": {},
+  "testManagerBasePath": "https://cloud.uipath.com/dnv_int_auotmations/defaulttenant/testmanager_/",
+  "defaultProject": {
+    "id": "c5a35d4e-0836-0000-7ec5-0b46c654f51b",
+    "name": "DNV_Auto",
+    "key": "DNV"
+  }
+}
